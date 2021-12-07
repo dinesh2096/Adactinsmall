@@ -76,6 +76,8 @@ public class Book extends LibGlobal{
 	
 	public static void outpu() {
 		System.out.println("bye");
+
+	}
 		}
-}
+
 
