@@ -73,4 +73,8 @@ public class Book extends LibGlobal{
 	public WebElement getCvv() {
 		return cvv;
 	}
+	
+	public static void outpu() {
+		System.out.println("bye");
+	}
 }
